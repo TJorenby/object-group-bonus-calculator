@@ -1,0 +1,31 @@
+To Do: 
+
+Loop Through employees array
+    pass employee object into a function
+    console log the result
+
+The function
+    return a new object
+    - name
+    - bonus percentage
+    - total compensation
+    - total bonus
+
+    Calculate bonus
+        - 2 or less ---> no bonus
+        3 ---> 4%
+        4 ---> 6%
+        5 ---> 10%
+
+    Extra Bonus if employee number is more than 4 digits long (5%)
+
+    If income > 65k....adjust down 1%
+
+    No bonus can be above 13$ or below 0%
+
+
+
+
+other notes
+- Already provided array
+- 
