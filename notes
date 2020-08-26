@@ -1,17 +1,17 @@
 To Do: 
 
-Loop Through employees array
-    pass employee object into a function
-    console log the result
+[x] Loop Through employees array
+   [X] pass employee object into a function
+    [x]    console log the result
 
-The function
-    return a new object
-    - name
-    - bonus percentage
-    - total compensation
-    - total bonus
+[]The function
+    []return a new object
+       [~] - name
+        - bonus percentage
+        - total compensation
+        - total bonus
 
-    Calculate bonus
+    [X]Calculate bonus
         - 2 or less ---> no bonus
         3 ---> 4%
         4 ---> 6%
